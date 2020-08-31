@@ -11,7 +11,7 @@ Authorization: bearer <eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3
     },
     "webpush": {
       "fcm_options": {
-        "link": "https://junroon997.github.io/vm899.io/ "
+        "link": "https://mumkeapp.firebaseio.com"
       }
     }
   }
